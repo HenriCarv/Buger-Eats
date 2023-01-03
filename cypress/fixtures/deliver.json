@@ -1,0 +1,50 @@
+{
+  "Signup": {
+    "nome": "Henrique de Carvalho",
+    "cpf": "00000014141",
+    "email": "henrike.s@hotmail.com",
+    "whatsapp": "11999999999",
+    "endereco": {
+      "cep": "04534011",
+      "rua": "Rua Joaquim Floriano",
+      "numero": "1000",
+      "complemento": "ap 142",
+      "bairro": "Itaim Bibi",
+      "cidade_uf": "São Paulo/SP"
+    },
+    "metodo_entrega": "Moto",
+    "cnh": "cnhmineiro.jpg"
+  },
+  "cpf_inv": {
+    "nome": "gervazio geronimo",
+    "cpf": "000000141AA",
+    "email": "henrike.s@hotmail.com",
+    "whatsapp": "11999999999",
+    "endereco": {
+      "cep": "04534011",
+      "rua": "Rua Joaquim Floriano",
+      "numero": "1000",
+      "complemento": "ap 142",
+      "bairro": "Itaim Bibi",
+      "cidade_uf": "São Paulo/SP"
+    },
+    "metodo_entrega": "Moto",
+    "cnh": "cnhmineiro.jpg"
+  },
+  "email_Inv": {
+    "nome": "Henrique de Carvalho",
+    "cpf": "00000014141",
+    "email": "henrike.hotmail.com",
+    "whatsapp": "11999999999",
+    "endereco": {
+      "cep": "04534011",
+      "rua": "Rua Joaquim Floriano",
+      "numero": "1000",
+      "complemento": "ap 142",
+      "bairro": "Itaim Bibi",
+      "cidade_uf": "São Paulo/SP"
+    },
+    "metodo_entrega": "Moto",
+    "cnh": "cnhmineiro.jpg"
+  }
+}
